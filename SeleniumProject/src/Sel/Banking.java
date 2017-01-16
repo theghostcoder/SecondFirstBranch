@@ -26,7 +26,7 @@ public class Banking {
     
     System.out.println("test");
     System.out.println("newtest");
-    System.out.println("newtest2");
+   
     
     
 	}
