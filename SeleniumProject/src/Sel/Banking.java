@@ -25,7 +25,7 @@ public class Banking {
     //travel.findElement(By.className("btn btn-primary btn-lg btn-block");
     
     System.out.println("test");
-    
+    System.out.println("newtest");
     
     
 	}
