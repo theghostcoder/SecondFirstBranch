@@ -22,7 +22,9 @@ public class Banking {
         //wait for 5 sec
     Thread.sleep(5);
     
-    travel.findElement(By.className("btn btn-primary btn-lg btn-block").)
+    //travel.findElement(By.className("btn btn-primary btn-lg btn-block");
+    
+    System.out.println("test");
     
     
     
